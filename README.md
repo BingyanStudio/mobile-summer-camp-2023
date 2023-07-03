@@ -2,7 +2,7 @@
 <h6 align="center"> Bingyan Studio Summer Camp 2023 for Mobile Group </h6>
 
 #  Day 1
-- [ ] [注册 Github 账号](https://github.com/signup)
+- [x] [注册 Github 账号](https://github.com/signup)
 - [ ] 学习使用 Git
 - [ ] 简单学习 Markdown 的使用
 - [ ] Fork 本项目并修改 README.md 同步进度
