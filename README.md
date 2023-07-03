@@ -2,10 +2,10 @@
 <h6 align="center"> Bingyan Studio Summer Camp 2023 for Mobile Group </h6>
 
 #  Day 1
-- [x ] [注册 Github 账号](https://github.com/signup)
+- [x] [注册 Github 账号](https://github.com/signup)
 - [ ] 学习使用 Git
 - [ ] 简单学习 Markdown 的使用
-- [ x] Fork 本项目并修改 README.md 同步进度
+- [x] Fork 本项目并修改 README.md 同步进度
 - [ ] 学习如何提交 Pull Request(PR)，将自己的进度通过 PR 提交至本仓库的自己所属的分支
 - [ ] 安装 [Clash for Windows](https://github.com/Fndroid/clash_for_windows_pkg/releases)，点击 Show all 15 assets，通常下载 Clash.for.Windows.Setup.0.20.27.exe
 - [ ] 找 [@Xeu](https://github.com/ThankRain) 要订阅链接
