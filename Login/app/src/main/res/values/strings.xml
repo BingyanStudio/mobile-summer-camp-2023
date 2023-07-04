@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="LblLogin">用户登录</string>
+    <string name="LblUserName">用户名</string>
+    <string name="LblPassword">密码</string>
+    <string name="LblLoginByUserName">用户名登录</string>
+    <string name="LblLoginByEmail">邮箱地址登录</string>
+    <string name="LbRememberMe">记住登录状态</string>
+    <string name="LblBtnLogin">登录</string>
+</resources>
