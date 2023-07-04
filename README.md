@@ -11,7 +11,7 @@
 - [x] 找 [@Xeu](https://github.com/ThankRain) 要订阅链接
 - [x] Clash for Windows 开启 TUN 模式
 - [x] 下载安装 Android Studio
-- [ ] 连接真机 / 启动虚拟机
+- [x] 连接真机 / 启动虚拟机
 - [ ] 创建新的空项目构建编译并运行
 - [ ] 尝试进行调整文案位置等
 - [x] 同步进度
