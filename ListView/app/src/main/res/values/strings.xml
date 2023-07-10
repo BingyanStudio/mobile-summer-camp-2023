@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ListView</string>
+    <string name="tt">我是ListView的Item布局</string>
+    <string name="pingguo">错认如花枝上艳，不知荚子缀猩红。</string>
+    <string name="xiaolu">呦呦鹿鸣，食野之蒿</string>
+    <string name="xiaoxiong">熊咆龙吟殷岩泉,栗深林兮惊层巅</string>
+    <string name="xiaoniao">月出惊山鸟，时鸣春涧中</string>
+    <string name="haoye">春风得意马蹄疾，一日看尽长安花</string>
+</resources>
