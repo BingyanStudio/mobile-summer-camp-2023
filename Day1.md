@@ -1,9 +1,4 @@
-<h3 align="center"> 冰岩作坊 2023 移动组夏令营 </h3>
-<h6 align="center"> Bingyan Studio Summer Camp 2023 for Mobile Group </h6>
 
-<<<<<<< HEAD
-7月3日任务 **[Day1](Day1.md)**
-=======
 #  Day 1
 - [x] [注册 Github 账号](https://github.com/signup)
 - [x] 学习使用 Git
@@ -63,6 +58,4 @@
 - [廖雪峰的 Git 教程](https://www.liaoxuefeng.com/wiki/896043488029600)
 - [Commit message 和 Change log 编写指南 - 阮一峰的网络日志](https://www.ruanyifeng.com/blog/2016/01/commit_message_change_log.html)
 - [在 Github 上做出你的第一个贡献](https://github.com/firstcontributions/first-contributions/blob/main/translations/README.zh-cn.md)
->>>>>>> 10c48142d34d4f289461aa491ba4a01ec39db514
 
-7月4日任务 **[Day2](Day2.md)**
